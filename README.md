@@ -13,16 +13,6 @@ This project applies **Linear Regression** using **Apache Spark (PySpark)** to a
   - Tableau
   - Excel / CSV data sources
 
----
-
-## Repository Structure
-
-├── Transportation data.xlsx # Original dataset
-├── Transportation_Data.csv # Cleaned CSV used in PySpark
-├── LinearRegression_Results.csv # Actual vs Predicted output
-├── DASHBOARD.twbx # Tableau Dashboard file
-├── README.md # Project documentation
-
 
 ---
 
